@@ -69,12 +69,12 @@ xor G1(sum,a,b);
 and G2(carry,a,b);
 not G4(abar,a);
 xor G3(D,a,b);
-and G5(B0,abar,b);
+and G5(Bo,abar,b);
 endmodule 	
 ```
 **RTL Schematic**
 
-![image](https://github.com/saiganesh2006/HALF_ADDER_SUBTRACTOR/assets/145742342/6154244d-2bc5-4785-98f0-e6dd2c7348d6)
+![image](https://github.com/saiganesh2006/HALF_ADDER_SUBTRACTOR/assets/145742342/fd538ecd-dcf7-4fcd-8de5-8920579699b3)
 
 **Output/TIMING Waveform**
 
